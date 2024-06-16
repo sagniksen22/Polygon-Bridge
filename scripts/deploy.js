@@ -14,18 +14,3 @@ main()
   });
 
 
-
-
-
-
-  
-  
-  /*
-npm i
-npm install dotenv --save
-npx hardhat compile 
-npx hardhat run scripts/deploy.js --network sepolia
-node scripts/mint-nft.js
-node .\scripts\approveDeposit.js
-
-  */
