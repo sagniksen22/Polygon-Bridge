@@ -10,9 +10,9 @@ Let's assume we have generated 5 unique images using DALL-E 2 or Midjourney. The
 
 Assuming you have the images ready, you would upload each image to IPFS via pinata.cloud and obtain their respective IPFS URLs.
 
-### Step 3: Deploy an ERC721 Contract to the Goerli Ethereum Testnet
+### Step 3: Deploy an ERC721 Contract to the   Ethereum Testnet
 
-We'll deploy an ERC721 contract to the Goerli Ethereum Testnet. This contract will have a `promptDescription` function that returns the prompt used to generate the images.
+We'll deploy an ERC721 contract to the Ethereum Testnet. This contract will have a `promptDescription` function that returns the prompt used to generate the images.
 
 ### Step 4: Map Your NFT Collection using Polygon network token mapper
 
@@ -24,7 +24,7 @@ Hardhat is a development environment that facilitates Ethereum smart contract de
 
 ### Step 6: Write a Hardhat script to batch transfer all NFTs from Ethereum to Polygon Mumbai using the FxPortal Bridge
 
-FxPortal Bridge allows cross-chain transfers between Ethereum and Polygon Mumbai (testnet). We'll write another script to transfer all 5 NFTs from Ethereum (Goerli) to Polygon Mumbai using the bridge.
+FxPortal Bridge allows cross-chain transfers between Ethereum and Polygon Mumbai (testnet). We'll write another script to transfer all 5 NFTs from Ethereum ( ) to Polygon Mumbai using the bridge.
 
 ### Implementation Details
 
