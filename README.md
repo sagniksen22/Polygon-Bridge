@@ -22,9 +22,9 @@ Mapping your ERC721 tokens to Polygon network (Matic) helps in interoperability 
 
 Hardhat is a development environment that facilitates Ethereum smart contract development. We'll write a script to mint all 5 NFTs in one go.
 
-### Step 6: Write a Hardhat script to batch transfer all NFTs from Ethereum to Polygon Mumbai using the FxPortal Bridge
+### Step 6: Write a Hardhat script to batch transfer all NFTs from Ethereum to Polygon amoy using the FxPortal Bridge
 
-FxPortal Bridge allows cross-chain transfers between Ethereum and Polygon Mumbai (testnet). We'll write another script to transfer all 5 NFTs from Ethereum ( ) to Polygon Mumbai using the bridge.
+FxPortal Bridge allows cross-chain transfers between Ethereum and Polygon amoy (testnet). We'll write another script to transfer all 5 NFTs from Ethereum ( ) to Polygon amoy using the bridge.
 
 ### Implementation Details
 
